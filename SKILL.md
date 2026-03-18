@@ -765,4 +765,81 @@ h1 coloring pages
 
 ---
 
+## 仓库资源导航
+
+本仓库包含完整的建站知识体系，各文件夹内容如下：
+
+### 📚 核心文档
+| 文件 | 内容 | 用途 |
+|------|------|------|
+| `SKILL.md` | 建站三字经完整SOP | 主文档，系统学习 |
+
+### 📝 执行清单
+| 文件 | 内容 | 用途 |
+|------|------|------|
+| `assets/SKILL.md` | 检查清单导航 | 了解如何使用检查清单 |
+| `assets/checklist-template.md` | 七阶段检查清单 | 建站执行时逐项检查 |
+
+### 📖 参考指南
+| 文件 | 内容 | 用途 |
+|------|------|------|
+| `references/SKILL.md` | 参考指南导航 | 快速找到需要的指南 |
+| `references/keyword-research-guide.md` | 找词实战指南 | 学习如何找词、验证关键词 |
+| `references/backlink-building-guide.md` | 外链建设指南 | 学习初链/优链建设 |
+| `references/onpage-seo-guide.md` | On-Page SEO指南 | 学习页面优化、TDH设置 |
+
+### 🚀 快速上手
+| 文件 | 内容 | 用途 |
+|------|------|------|
+| `quick-start/SKILL.md` | 3小时上站SOP | 快速抢占新词先机 |
+
+### 💡 经验分享
+| 文件 | 内容 | 用途 |
+|------|------|------|
+| `experiences/SKILL.md` | 经验分享导航 | 了解有哪些经验分享 |
+| `experiences/success-cases.md` | 成功案例拆解 | 学习成功经验 |
+| `experiences/failure-lessons.md` | 失败教训总结 | 避免常见错误 |
+| `experiences/mindset-sharing.md` | 心态与思维 | 建立正确心态 |
+| `experiences/tools-reviews.md` | 工具使用心得 | 选择合适工具 |
+| `experiences/traffic-insights.md` | 流量获取经验 | 学习推广方法 |
+
+### 🛠️ 工具资源
+| 文件 | 内容 | 用途 |
+|------|------|------|
+| `tools/SKILL.md` | 工具资源导航 | 了解推荐工具 |
+
+### 📊 案例拆解
+| 文件 | 内容 | 用途 |
+|------|------|------|
+| `cases/SKILL.md` | 案例导航 | 了解不同类型网站案例 |
+
+### 💰 变现指南
+| 文件 | 内容 | 用途 |
+|------|------|------|
+| `monetization/SKILL.md` | 变现导航 | 了解各种变现方式 |
+
+### 🤖 自动化脚本
+| 文件 | 内容 | 用途 |
+|------|------|------|
+| `scripts/SKILL.md` | 脚本导航 | 了解自动化脚本 |
+
+---
+
+## 学习路径推荐
+
+### 新手入门路径
+1. 阅读 `SKILL.md`（本文件）- 建立整体认知
+2. 阅读 `quick-start/SKILL.md` - 快速上手
+3. 使用 `assets/checklist-template.md` - 开始执行
+4. 遇到问题查阅 `references/` 相关指南
+5. 阅读 `experiences/` 经验分享 - 学习他人经验
+
+### 进阶提升路径
+1. 深入学习 `references/` 三个指南
+2. 研究 `cases/` 案例拆解
+3. 学习 `monetization/` 变现方法
+4. 使用 `scripts/` 自动化脚本提升效率
+
+---
+
 *本 SOP 基于哥飞社群分享整理，仅供学习参考。*
